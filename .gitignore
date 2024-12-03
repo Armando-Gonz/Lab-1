@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+.Telegram desktop/
 eggs/
 .eggs/
 lib/
